@@ -1,3 +1,3 @@
 export const PORT = 5551;
 export const MONGODB_URL =
-  "mongodb+srv://root:1234@mern-workout.cujhb.mongodb.net/?retryWrites=true&w=majority&appName=MERN-Workout";
+  "mongodb+srv://root:1234@books-store-mern.hxrkf.mongodb.net/?retryWrites=true&w=majority&appName=Books-Store-MERN";
